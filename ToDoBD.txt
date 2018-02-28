@@ -1,0 +1,26 @@
+TO DO Na next week
+-na nastepny raz schemat bazy danych (encje)
+-diagram przypadkow uzycia
+-mniej wiecej kto czym sie zajmuje
+-obecnosc wszystkich obowiazkowa
+
+Do przemyœlenia
+-jak robimy przedluzanie (ile razy albo  jakims okresie)
+-strona www dla uzytkonika, desktopowa dla pracownika/administracji
+-zwrocic uwage na egzemplarze (dodawanie , usuwanie, wypozyczenie, wyswietlanie)
+- 3 raporty statystyczne (2 proste jeden ciezszy, zapis do pdf,wykresy milewidziane)
+- zamowienia na ksiazki.
+- przyjecia zamowienia
+- informcja gdzie jest ksiazka (jaki dzia³)
+- pracownik wypzycza ksiazki i zwraca
+- czytelnik moze tylko zamowic
+- przypomnienie o oddaniu ksiazki
+- zastanowic sie co zrobic z terminem zwortu
+- przechowanie ksiegarni wydawacy itp. kto przygotowal zamowienie na ksiazke.
+
+Uznaliœmy z harezlak, ¿e mamy wykonaæ stronê www dla uzytkownikow i apliacje .exe dla administratorów i praconikow. Pewnie musz¹ ze soba wspó³pracowaæ obie apki. 
+Micha³ Podlaski - strona www
+2 osoby - aplikacja
+2 osoby - obs³uga bazy danych
+
+Powiedzmy, ¿e jak tam baza danych czy apka szybciej soknczy prace albo bêdzie mia³a czas wolny to bêdzie pomagaæ innej grupie.
