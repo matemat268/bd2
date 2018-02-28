@@ -1,0 +1,1 @@
+diagramy, raporty i inne pierdo³y
