@@ -1,13 +1,13 @@
-TO DO Na next week
--na nastepny raz schemat bazy danych (encje) 75% done
--diagram przypadkow uzycia
--mniej wiecej kto czym sie zajmuje
--obecnosc wszystkich obowiazkowa
+﻿TO DO Na next week
+- na nastepny raz schemat bazy danych (encje) 75% done
+- diagram przypadkow uzycia
+- mniej wiecej kto czym sie zajmuje
+- obecnosc wszystkich obowiazkowa
 
 Do przemyślenia
--jak robimy przedluzanie (ile razy albo  jakims okresie)
--strona www dla uzytkonika, desktopowa dla pracownika/administracji
--zwrocic uwage na egzemplarze (dodawanie , usuwanie, wypozyczenie, wyswietlanie)
+- jak robimy przedluzanie (ile razy albo  jakims okresie)
+- strona www dla uzytkonika, desktopowa dla pracownika/administracji
+- zwrocic uwage na egzemplarze (dodawanie , usuwanie, wypozyczenie, wyswietlanie)
 - 3 raporty statystyczne (2 proste jeden ciezszy, zapis do pdf,wykresy milewidziane)
 - zamowienia na ksiazki.
 - przyjecia zamowienia
