@@ -1,4 +1,27 @@
-﻿TO DO Na next week
+﻿--------------------------  05.03.2018  -------------------------
+
+-- Poprawić przypadki użycia (MP)
+
+-- Zrobić pełną listę użytkowników z funkcjonalnościami (TH?)
+
+-- Zrobić schemat bazy z atrybutami (???)
+
+	-       Autor >--< Książka 
+	   Egzemplarz >--< Wypozyczenie
+	
+	-  Zamówienie dotyczy książki
+	
+	-  (Wypożyczenie - rezerwacja) - "Nie widzę sensu tego związku" ~KH 
+
+
+-----------------------------------------------------------------
+
+
+
+
+
+
+TO DO Na next week
 - na nastepny raz schemat bazy danych (encje) 75% done
 - diagram przypadkow uzycia
 - mniej wiecej kto czym sie zajmuje
