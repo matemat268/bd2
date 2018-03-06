@@ -21,30 +21,4 @@
 
 
 
-TO DO Na next week
-- na nastepny raz schemat bazy danych (encje) 75% done
-- diagram przypadkow uzycia
-- mniej wiecej kto czym sie zajmuje
-- obecnosc wszystkich obowiazkowa
 
-Do przemyślenia
-- jak robimy przedluzanie (ile razy albo  jakims okresie)
-- strona www dla uzytkonika, desktopowa dla pracownika/administracji
-- zwrocic uwage na egzemplarze (dodawanie , usuwanie, wypozyczenie, wyswietlanie)
-- 3 raporty statystyczne (2 proste jeden ciezszy, zapis do pdf,wykresy milewidziane)
-- zamowienia na ksiazki.
-- przyjecia zamowienia
-- informcja gdzie jest ksiazka (jaki dział)
-- pracownik wypzycza ksiazki i zwraca
-- czytelnik moze tylko zamowic
-- przypomnienie o oddaniu ksiazki
-- zastanowic sie co zrobic z terminem zwortu
-- przechowanie ksiegarni wydawacy itp. kto przygotowal zamowienie na ksiazke.
-
-Uznaliśmy z harezlak, że mamy wykonać stronę www dla uzytkownikow i apliacje .exe dla administratorów i praconikow. Pewnie muszą ze soba współpracować obie apki. 
-Michał Podlaski - strona www
-Tomasz Kalemba, Bartłomiej Warchoł - obsługa bazy danych
-
-Powiedzmy, że jak tam baza danych czy apka szybciej soknczy prace albo będzie miała czas wolny to będzie pomagać innej grupie.
-
-...
