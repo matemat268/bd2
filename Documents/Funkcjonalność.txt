@@ -1,0 +1,72 @@
+Administrator
+
+Zarz¹dzanie kontem pracownika
+Zarz¹dzanie kontem czytelnika
+Wyœwietlanie wypo¿yczonych egzemplarzy
+oddanie egzemplarze
+Wypo¿yczanie egzemplarzy
+Dodanie ksi¹¿ki
+	Dodanie egzemplarza
+Usuniêcie ksi¹¿ki
+	Usuniêcie egzemplarza
+Generacja raportu statystycznego
+obs³uga kar
+wyœwietlanie listy czytelników:
+	Wyœwietlanie czytelników z karami
+	wyœwietlanie czytelników oczekuj¹cych na egzemplarze
+Przed³u¿anie egzemplarza
+wyœwietlanie stanu ksiêgozbioru
+rezerwacja egzemplarzy
+wyszukiwanie egzemplarza
+sprawdzenie dostêpnoœci ksi¹¿ki
+
+Przed³u¿anie egzemplarza
+wyœwietlanie stanu ksiêgozbioru
+rezerwacja egzemplarzy
+wyszukiwanie egzemplarza
+sprawdzenie dostêpnoœci egzemplarza
+
+
+
+pracownik
+
+Zarz¹dzanie kontem czytelnika
+Wyœwietlanie wypo¿yczonych egzemplarzy
+oddanie egzemplarze
+Wypo¿yczanie egzemplarzy
+Dodanie ksi¹¿ki
+	Dodanie egzemplarza
+Usuniêcie ksi¹¿ki
+	Usuniêcie egzemplarza
+Generacja raportu statystycznego
+obs³uga kar
+wyœwietlanie listy czytelników:
+	Wyœwietlanie czytelników z karami
+	wyœwietlanie czytelników oczekuj¹cych na egzemplarze
+Przed³u¿anie egzemplarza
+wyœwietlanie stanu ksiêgozbioru
+rezerwacja egzemplarzy
+wyszukiwanie egzemplarza
+sprawdzenie dostêpnoœci ksi¹¿ki
+
+Przed³u¿anie egzemplarza
+wyœwietlanie stanu ksiêgozbioru
+rezerwacja egzemplarzy
+wyszukiwanie egzemplarza
+sprawdzenie dostêpnoœci egzemplarza
+
+
+czytelnik
+
+Przed³u¿anie egzemplarza
+wyœwietlanie stanu ksiêgozbioru
+rezerwacja egzemplarzy
+wyszukiwanie egzemplarza
+sprawdzenie dostêpnoœci egzemplarza
+
+
+
+
+
+
+
